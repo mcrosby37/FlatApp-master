@@ -13,7 +13,7 @@
 		"@types/lodash": "^4.14.165",
 		"@types/react": "~16.9.35",
 		"@types/react-dom": "~16.9.8",
-		"@types/react-native": "~0.63.2",
+		"@types/react-native": "~0.64.12",
 		"@types/react-native-calendars": "^1.505.0",
 		"@types/uuid": "^8.3.0",
 		"@typescript-eslint/eslint-plugin": "^4.13.0",
